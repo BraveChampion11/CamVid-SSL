@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+
+# Dataset
+/data/CamVid/
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Environment
+.env
+.env.*
+
+# Generated visualizations
+evaluation/visualizations/
+
+# IDE
+.vscode/
